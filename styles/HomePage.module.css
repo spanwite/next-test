@@ -1,0 +1,13 @@
+.greeting {
+	font-size: 48px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translateX(-50%) translateY(-50%);
+}
+
+@media (max-width: 425px) {
+	.greeting {
+		font-size: 40px;
+	}
+}

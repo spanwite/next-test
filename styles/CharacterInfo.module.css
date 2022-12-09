@@ -1,0 +1,12 @@
+.list {
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	font-size: 17px;
+	font-family: "Roboto Mono", Verdana, Tahoma, Helvetica, sans-serif;
+	margin-top: 10px;
+}
+
+.info {
+	color: #38f9a5;
+}
